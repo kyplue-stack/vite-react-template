@@ -11,7 +11,7 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          count 111is {count}
         </button>
         
         {/* 아래 버튼을 추가합니다 */}
